@@ -1,0 +1,1469 @@
+[
+  {
+    "id": 1,
+    "titulo": "General",
+    "datos": [
+      {
+        "id": 1,
+        "label": "Filtraciones Visibles",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 1,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 2,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 3,
+            "label": "M",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "label": "Estado de la Cabina",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 4,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 5,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 6,
+            "label": "M",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "label": "Espejos Retrovisores",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 7,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 8,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 9,
+            "label": "M",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "label": "Vidrios laterales / Parabrisas",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 10,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 11,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 12,
+            "label": "M",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "label": "Estado de Asientos",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 13,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 14,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 15,
+            "label": "M",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "label": "Estado de Cinturones de Seguridad",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 16,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 17,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 18,
+            "label": "M",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "label": "Estado de los Neumaticos (Huella 4 mm)",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 19,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 20,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 21,
+            "label": "M",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "label": "Estado Neumatico de Repuesto",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 22,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 23,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 24,
+            "label": "M",
+            "value": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "titulo": "Luces en General",
+    "datos": [
+      {
+        "id": 9,
+        "label": "Focos Delanteros",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 25,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 26,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 27,
+            "label": "M",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "label": "Intermitentes Delanteros",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 28,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 29,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 30,
+            "label": "M",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "label": "Intermitentes Traseros",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 31,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 32,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 33,
+            "label": "M",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "label": "Luces de Estacionamiento",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 34,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 35,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 36,
+            "label": "M",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "label": "Luces de Freno",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 37,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 38,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 39,
+            "label": "M",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "label": "3era Luz de Freno",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 40,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 41,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 42,
+            "label": "M",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "label": "Luz Marcha Atras",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 43,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 44,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 45,
+            "label": "M",
+            "value": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "titulo": "Frenos",
+    "datos": [
+      {
+        "id": 16,
+        "label": "Hidraulico",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 46,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 47,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 48,
+            "label": "M",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "label": "De Mano",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 49,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 50,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 51,
+            "label": "M",
+            "value": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "titulo": "Instrumentos",
+    "datos": [
+      {
+        "id": 18,
+        "label": "Baliza (Mina Subterranea - Color Ambar)",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 52,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 53,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 54,
+            "label": "M",
+            "value": ""
+          },
+          {
+            "id": 55,
+            "label": "N/A",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "label": "Pertiga",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 56,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 57,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 58,
+            "label": "M",
+            "value": ""
+          },
+          {
+            "id": 59,
+            "label": "N/A",
+            "value": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "titulo": "Documentos",
+    "datos": [
+      {
+        "id": 20,
+        "label": "Revisión Tecnica",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 60,
+            "label": "Al Dia",
+            "value": ""
+          },
+          {
+            "id": 61,
+            "label": "Vencido",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 21,
+        "label": "Permiso de Circulacion",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 62,
+            "label": "Al Dia",
+            "value": ""
+          },
+          {
+            "id": 63,
+            "label": "Vencido",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "label": "Seguro Obligatorio",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 64,
+            "label": "Al Dia",
+            "value": ""
+          },
+          {
+            "id": 65,
+            "label": "Vencido",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "label": "Permisos / Cartolas Divisionales",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 66,
+            "label": "Al Dia",
+            "value": ""
+          },
+          {
+            "id": 67,
+            "label": "Vencido",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "label": "Check List Fatiga y Somnolencia (F&S)",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 68,
+            "label": "Si",
+            "value": ""
+          },
+          {
+            "id": 69,
+            "label": "No",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 25,
+        "label": "Porta su Licencia Municipal / Licencia Cliente (al dia)",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 70,
+            "label": "Si",
+            "value": ""
+          },
+          {
+            "id": 71,
+            "label": "No",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 26,
+        "label": "Porta Certifificados (Cuna, Barras, Laminas, GPS)",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 72,
+            "label": "Si",
+            "value": ""
+          },
+          {
+            "id": 73,
+            "label": "No",
+            "value": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "titulo": "Accesorios y Requisitos de Seguridad",
+    "datos": [
+      {
+        "id": 27,
+        "label": "Extintor PQS 1 kg (Superficie) / 10 kgs (Mina)",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 74,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 75,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 76,
+            "label": "M",
+            "value": ""
+          },
+          {
+            "id": 77,
+            "label": "N/A",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 28,
+        "label": "Proxima Mantencion",
+        "type": "datepickers",
+        "items": [
+          {
+            "id": 78,
+            "label": "",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 29,
+        "label": "Cunas Plasticas / Soporte de Cuna",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 79,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 80,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 81,
+            "label": "M",
+            "value": ""
+          },
+          {
+            "id": 82,
+            "label": "N/A",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 30,
+        "label": "Cable Roba Corriente",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 83,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 84,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 85,
+            "label": "M",
+            "value": ""
+          },
+          {
+            "id": 86,
+            "label": "N/A",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 31,
+        "label": "Gata Hidraulica",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 87,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 88,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 89,
+            "label": "M",
+            "value": ""
+          },
+          {
+            "id": 90,
+            "label": "N/A",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 32,
+        "label": "Triangulo Retro-Reflectante",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 92,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 93,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 94,
+            "label": "M",
+            "value": ""
+          },
+          {
+            "id": 95,
+            "label": "N/A",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 33,
+        "label": "Botiquín Primeros Auxilios",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 96,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 97,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 98,
+            "label": "M",
+            "value": ""
+          },
+          {
+            "id": 99,
+            "label": "N/A",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 34,
+        "label": "Barra Antivuelco Interior / Exterior",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 100,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 101,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 102,
+            "label": "M",
+            "value": ""
+          },
+          {
+            "id": 103,
+            "label": "N/A",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 35,
+        "label": "Alarma sonora de Retroceso",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 104,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 105,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 106,
+            "label": "M",
+            "value": ""
+          },
+          {
+            "id": 107,
+            "label": "N/A",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 36,
+        "label": "Sensor de Retroceso",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 108,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 109,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 110,
+            "label": "M",
+            "value": ""
+          },
+          {
+            "id": 111,
+            "label": "N/A",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 37,
+        "label": "Seguro Bloqueador de Tuercas",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 112,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 113,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 114,
+            "label": "M",
+            "value": ""
+          },
+          {
+            "id": 115,
+            "label": "N/A",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "label": "Laminas de Seguridad",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 116,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 117,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 118,
+            "label": "M",
+            "value": ""
+          },
+          {
+            "id": 119,
+            "label": "N/A",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 39,
+        "label": "Chaleco Reflectante (DS N 164/2014)",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 120,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 121,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 122,
+            "label": "M",
+            "value": ""
+          },
+          {
+            "id": 123,
+            "label": "N/A",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 40,
+        "label": "Dispositivo Antisueño (F&S)",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 124,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 125,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 126,
+            "label": "M",
+            "value": ""
+          },
+          {
+            "id": 127,
+            "label": "N/A",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 41,
+        "label": "Sistema de Contención de Carga (Malla / Otro)",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 128,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 129,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 130,
+            "label": "M",
+            "value": ""
+          },
+          {
+            "id": 131,
+            "label": "N/A",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 42,
+        "label": "Dispositivo Corta Corriente (Mina Subterranea)",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 132,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 133,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 134,
+            "label": "M",
+            "value": ""
+          },
+          {
+            "id": 135,
+            "label": "N/A",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 43,
+        "label": "Foco Faenero (Mina Subterranea)",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 136,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 137,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 138,
+            "label": "M",
+            "value": ""
+          },
+          {
+            "id": 139,
+            "label": "N/A",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 44,
+        "label": "Radio Bidireccional (Andina / Mina Subterranea)",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 140,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 141,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 142,
+            "label": "M",
+            "value": ""
+          },
+          {
+            "id": 143,
+            "label": "N/A",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 45,
+        "label": "Camara DASHCAM",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 144,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 145,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 146,
+            "label": "M",
+            "value": ""
+          },
+          {
+            "id": 147,
+            "label": "N/A",
+            "value": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "titulo": "Equipamiento Andina (Plan Invierno)",
+    "datos": [
+      {
+        "id": 46,
+        "label": "Cadena con Rompe Hielo (3 und)",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 148,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 149,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 150,
+            "label": "M",
+            "value": ""
+          },
+          {
+            "id": 151,
+            "label": "N/A",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 47,
+        "label": "Llave Cadena Rompe Hielo",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 152,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 153,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 154,
+            "label": "M",
+            "value": ""
+          },
+          {
+            "id": 155,
+            "label": "N/A",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 48,
+        "label": "Tensores (6 und)",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 156,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 157,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 158,
+            "label": "M",
+            "value": ""
+          },
+          {
+            "id": 159,
+            "label": "N/A",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 49,
+        "label": "Pala",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 160,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 161,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 162,
+            "label": "M",
+            "value": ""
+          },
+          {
+            "id": 163,
+            "label": "N/A",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 50,
+        "label": "Arva o Beeper / Pilas",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 164,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 165,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 166,
+            "label": "M",
+            "value": ""
+          },
+          {
+            "id": 167,
+            "label": "N/A",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 51,
+        "label": "Linterna, Frazada, Guantes",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 168,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 169,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 170,
+            "label": "M",
+            "value": ""
+          },
+          {
+            "id": 171,
+            "label": "N/A",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 52,
+        "label": "Estrobo",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 172,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 173,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 174,
+            "label": "M",
+            "value": ""
+          },
+          {
+            "id": 175,
+            "label": "N/A",
+            "value": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "titulo": "Otros",
+    "datos": [
+      {
+        "id": 53,
+        "label": "Calefacción",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 176,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 177,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 178,
+            "label": "M",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 54,
+        "label": "Aire Acondicionado",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 179,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 180,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 181,
+            "label": "M",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 55,
+        "label": "Limpia Parabrisas",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 182,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 183,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 184,
+            "label": "M",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 56,
+        "label": "Bocina",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 185,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 186,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 187,
+            "label": "M",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 57,
+        "label": "Logotipo Empresa",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 188,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 189,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 190,
+            "label": "M",
+            "value": ""
+          },
+          {
+            "id": 191,
+            "label": "N/A",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 58,
+        "label": "Limpieza General Vehículo",
+        "type": "checkboxes",
+        "items": [
+          {
+            "id": 192,
+            "label": "B",
+            "value": ""
+          },
+          {
+            "id": 193,
+            "label": "R",
+            "value": ""
+          },
+          {
+            "id": 194,
+            "label": "M",
+            "value": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "titulo": "Observaciones inspeccion visual",
+    "datos": [
+      {
+        "id": 59,
+        "label": "{FileUpload}",
+        "type": "fileuploads",
+        "items": [
+          {
+            "id": 195,
+            "label": "Fotos del Vehiculo",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 60,
+        "label": "{TextArea}",
+        "type": "textareas",
+        "items": [
+          {
+            "id": 196,
+            "label": "Observacione",
+            "value": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "titulo": "ESTADO FINAL DEL VEHICULO",
+    "datos": [
+      {
+        "id": 61,
+        "label": "{TextArea}",
+        "type": "textareas",
+        "items": [
+          {
+            "id": 197,
+            "label": "Ingrese Estado Final",
+            "value": ""
+          }
+        ]
+      }
+    ]
+  }
+]

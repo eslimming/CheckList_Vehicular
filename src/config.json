@@ -1,0 +1,11 @@
+{
+
+  "api_fotos0": "https://apicorecamionetas.kairosmining.com",
+  "api_fotos": "https://apikairos.kairosmining.com/api/upload",
+  "api_login": "https://apikairos.kairosmining.com/api/vehicular/sp_Json_Login",
+  "api_formulario": "https://apikairos.kairosmining.com/api/vehicular/sp_Json_Formulario",
+  "api_resultado": "https://apikairos.kairosmining.com/api/vehicular/sp_Json_AddResultado",
+  "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c3IiOiJlc2xpbW1pbmciLCJlbWwiOiJlZHVhcmRvLnNsaW1taW5nQGhvbmV5d2VsbC5jb20iLCJpYXQiOjE2MjAyNDI2OTgsImV4cCI6MjEzODYzOTA5OH0.GZ0oadipFTi8HGozULjPvGp7pTSpTnCBmQdEtMPDOIA"
+
+
+}
